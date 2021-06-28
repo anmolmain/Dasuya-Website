@@ -1,0 +1,166 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    color: whitesmoke;
+}
+
+.headerElements {
+    font-family: monospace;
+    font-size: x-large;
+    text-align: center;
+    width: 20%;
+    transition: 0.3s;
+}
+
+.headerElements:hover {
+    font-family: monospace;
+    font-size: xx-large;
+    text-align: center;
+    border-radius: 50%;
+    background-color: rgb(32, 36, 36);
+}
+
+.welcome {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(221, 247, 238); 
+    text-align: center;
+    padding: 20px;
+    padding-bottom: 5px;
+    transition: 0.3s;
+
+}
+.welcome:hover {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(173, 235, 213);
+    text-align: center;
+    padding: 20px;
+    padding-bottom: 5px;
+    transition: 0.3s;
+
+}
+
+.welcomebelow {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(221, 247, 238); 
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 10px;
+    transition: 0.3s;
+}
+.welcomebelow:hover {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(173, 235, 213); 
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 10px;
+    transition: 0.3s;
+}
+
+.pic {
+    transition: 0.3s;
+    width: 80%;
+    border-radius: 25px;
+}
+
+
+.pic:active {
+    transition: 0.3s;
+    width: 85%;
+    border-radius: 25px;
+}
+
+.topSearchBar {
+    transition: 0.3s;
+    align-items: center;
+    border-radius: 25px;
+    background-color: rgb(201, 245, 230);
+    height: 25px;
+    width: 50%;
+    text-align: center;
+}
+
+.topSearchBar:hover {
+    transition: 0.3s;
+    align-items: center;
+    width: 70%;
+    border-radius: 25px;
+    background-color: rgb(201, 245, 230);
+}
+
+.enterButton {
+    border-radius: 25px;
+    height: 43px;
+    width: 100%;
+}
+
+.tabledetails {
+        transition: 0.3s;
+
+
+    padding: 15px;
+    width: 25%;
+    background-color: beige;
+    border-radius: 25px;
+    padding: 15px;
+    text-align: center;
+    font-size: x-large;
+    border: 4px dotted black;
+    padding: 15px;
+    border-radius: 25px;
+}
+
+.tabledetails:hover {
+        transition: 0.3s;
+
+
+    padding: 15px;
+    width: 25%;
+    background-color: rgb(245, 245, 182);
+    border-radius: 25px;
+    padding: 15px;
+    text-align: center;
+    font-size: x-large;
+}
+.DasuyaAtGlance{
+   
+    background-color: rgb(221, 195, 245);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    width: 100%;
+    height: 40px;
+}
+.detailsOfCity{
+    transition: 0.3s;
+ background-color: rgb(221, 195, 245);
+    width: 100%;
+    font-size: x-large;
+    font-family: monospace;
+    padding: 50px;
+    border: 2px dotted;
+}
+.detailsOfCity:hover{
+    transition: 0.3s;
+ background-color: rgb(210, 170, 247);
+    width: 100%;
+    font-size: x-large;
+    font-family: monospace;
+    padding: 50px;
+    border: 2px dotted;
+}
+
